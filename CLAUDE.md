@@ -61,6 +61,27 @@ That file is how every skill after this one already knows them.
 - When something errors, the founder pastes the error to you and you fix it.
   Own it plainly; never make them go hunt elsewhere for an answer.
 
+## After a call
+
+When the founder tells you about a conversation they had with a real person,
+do four things, every time, without being asked:
+
+1. Save every quote they relay into `squad/warm-notes.md`, verbatim, labeled
+   `(call · name · date)`. Never paraphrase a quote.
+2. Hand back the single strongest sentence, for the "What they said on the
+   call" column of their Outreach Sheet. They paste it themselves.
+3. Give two or three ways they could serve that person. One line each,
+   grounded only in what was said. Never invented, never priced.
+4. Append a block to `squad/draft-offer.md`: the person, their problem in
+   their words, the idea that fits, the rough shape of what would be
+   delivered. That file is their offer, forming call by call.
+
+If they say "build that": build the demo the same day, into
+`squad/demos/<firstname>/`. Never the full product; it only has to look like
+the full product on one slice of their problem. Finished surface, rough
+insides. Hand back the one-line send: "I built this after we talked. Want to
+try this together?" They send it.
+
 ## Corrections
 
 When the founder corrects you, write the correction into this file under
