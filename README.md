@@ -10,19 +10,30 @@ lesson), and `squad/`, where everything your squad makes lands. Over time
 this folder becomes your knowledge database: every note, list and offer is a
 file in here, and Claude reads all of it.
 
-## Install (one paste)
+## Install (one line)
 
-Open Claude Code in the Claude desktop app and paste this:
+Open Claude Code in the Claude desktop app and say:
 
 ```
-Make a folder called project in my home folder. Download my Squad base into
-it from https://github.com/AI-ChrisLee/squad-base so I end up with a folder
-called Squad at project/Squad, without the .git folder. Then open
-project/Squad as my workspace, look around, tell me what landed, and ask me
-your first-run questions.
+Install my Squad base: https://github.com/AI-ChrisLee/squad-base
 ```
 
 Answer its five questions. That is the install.
+
+## For Claude: the install steps
+
+When a founder asks you to install this, do exactly this, in order:
+
+1. Create a folder called `project` in their home folder if it does not
+   exist.
+2. Download this repository into it so the result is `project/Squad`:
+   clone it, then remove the `.git` folder, `README.md` and `LICENSE.md`
+   so only the workspace remains.
+3. Open `project/Squad` as the working folder.
+4. Tell the founder what landed, in four short lines (the brain, the roots
+   file, the empty skills folder, the squad folder).
+5. Read `CLAUDE.md` and run its First run section: the five questions, one
+   at a time, answers written into `.claude/squad-roots.md`.
 
 Built and used by [AI Chris Lee](https://www.youtube.com/@aichrislee). Part
 of the Execution Squad system; the base updates every season, so install
