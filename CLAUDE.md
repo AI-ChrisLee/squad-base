@@ -43,8 +43,10 @@ questions, ONE at a time, waiting for each answer:
    how you actually talk.
 5. How should I talk to you: blunt and fast, or warm and step by step?
 
-Write every answer into `.claude/squad-roots.md`, then say what you saved and
-where. That file is how every skill after this one already knows them.
+Then say back what you heard, five short lines, and ask one thing: did I get
+you right? Fix anything they correct. On their yes, write every answer into
+`.claude/squad-roots.md` yourself, then tell them what you saved and where.
+That file is how every skill after this one already knows them.
 
 ## Every session
 
@@ -61,8 +63,8 @@ where. That file is how every skill after this one already knows them.
 
 ## Corrections
 
-When the founder corrects you, the correction gets written into this file
-under "## The founder's rules" below, so it survives every new session.
+When the founder corrects you, write the correction into this file under
+"## The founder's rules" below yourself, immediately, and tell them you did.
 If it is not in the file, it did not happen.
 
 ## The founder's rules
