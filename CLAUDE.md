@@ -24,7 +24,9 @@ The structure is deliberate, and it is the best starting shape we know:
 - `.claude/skills/` · the skills. Empty on day one, on purpose. They arrive
   one at a time, one per lesson, downloaded from GitHub.
 - `squad/` · everything you make. One folder, so the founder always knows
-  where to look. Each skill creates the subfolder it needs.
+  where to look. Each skill creates the subfolder it needs. One subfolder is
+  theirs, not yours: `squad/interviews/`, where they drop each call's
+  recording or transcript.
 
 You work inside this folder. Reading or writing anywhere else, another folder
 on this laptop, a website, an account, a paid tool, you ask first and wait
@@ -69,19 +71,28 @@ do four things, every time, without being asked. Everything about one person
 lives in one folder: `squad/clients/<first-last>/`.
 
 1. Save every quote they relay into that folder's `notes.md`, verbatim,
-   labeled `(warm call · Name · date)`. Never paraphrase a quote.
+   labeled `(warm call · Name · date)`, under `## QUOTES`. Never paraphrase.
 2. Hand back the single strongest sentence, for the "What they said on the
    call" column of their Outreach Sheet. They paste it themselves.
 3. Give two or three ways they could serve that person. One line each,
    grounded only in what was said. Never invented, never priced.
-4. Append two lines to the same `notes.md`: THE IDEA (the one that fits, in
-   one line) and THE MODEL (agency, consulting or software). Those folders
-   are the founder's idea bank, forming call by call.
+4. Fill the rest of that same `notes.md`. It holds these 7 headings, by exact
+   string, in this order and no others: `## QUOTES`, `## THE PROBLEM`,
+   `## THE COST`, `## WHAT THEY PAY NOW`, `## THE IDEA`, `## THE MODEL`,
+   `## THE NEXT STEP`. A heading the call did not answer stays empty. Those
+   folders are the founder's idea bank, forming call by call.
 
-The Winning Offer's warm entry (g4) runs this same loop off a full transcript
-or a recording, then rebuilds the offer document at `squad/business.md` from
-every call so far. That file is what the sales script (g6) and the deck (g7)
-read.
+The Winning Offer's warm entry (g4) runs this same loop off a whole call. The
+founder drops the recording or the transcript into `squad/interviews/`, named
+after the person, and says so in one line. That skill reads every file in
+there it has not read yet, writes the folder for each person, and rebuilds the
+offer document at `squad/business.md` from every call so far. That file is
+what the sales script (g6) and the deck (g7) read.
+
+That skill rewrites `notes.md` whole, from the recording. So when a person's
+recording lands after you already wrote their notes by hand, carry every quote
+only the founder heard back into `## QUOTES` in the rebuilt file. Nothing said
+on a call gets lost because a recording arrived later.
 
 If they say "build that": the mep skill (g7) builds the deck when it is
 installed, 9 slides for that one person with the demo drawn in. Before it is
@@ -91,25 +102,28 @@ only has to look like the full product on one slice of their problem.
 Finished surface, rough insides. Hand back the one-line send: "I built this
 after we talked. Want to try this together?" They send it.
 
-## The daily ten
+## The hour
 
-Ten reach-outs a day by hand, thirty minutes, is the founder's own task in
-every lane. It is not the outreach track's; it is everyone's. The squad
-researches and drafts; the founder's hand sends, from their own account,
-because the automated version is what gets accounts restricted.
+One hour a day, by hand, on people, is the founder's own task in every
+lane: partners, customers, the people who gave them something, the ones who
+wrote back. It is how the founder puts themselves into the world. Not a
+count and not a quota; an hour with their hand on people.
 
-Ten, not forty. Ten is small enough to do on the worst day.
+The squad drafts and stages; the founder's hand sends, from their own
+account, because the automated version is what gets accounts restricted.
 
 Give the founder shapes to reach out about, not only prospects: a partnership,
-a meeting, an insight worth sending, a venture fund, a reply to someone who
-wrote back, a customer who could refer one more. Highest intent first.
+a meeting, an insight worth sending, a thank-you to someone who helped, a
+reply to someone who wrote back, a customer who could refer one more. Replies
+first, then highest intent.
 
-When they ask for today's ten, hand back one page: ten rows, the name, why
-now, the channel (a DM by default, a public comment, a call when the number is
-public), the one real thing they did or said with the link, and a short draft.
-Two parts of every draft stay theirs to rewrite: the opener, which proves they
-looked, and the ask, which has to sound like them. Never send. Never log a
-touch they did not make.
+When they ask who to reach today, hand back one page: a row per person, the
+name, why now, the channel (a DM by default, a public comment, a call when the
+number is public), the one real thing they did or said with the link, and a
+short draft. Two parts of every draft stay theirs to rewrite: the opener,
+which proves they looked, and the ask, which has to sound like them. Never
+send. The hour is not counted and nothing records it: you stage the names,
+and the founder's hand does the rest.
 
 The last five minutes of the day are the post. The bip skill (g3) writes it
 off what they dump: what I did today, what happened, what I learned, what I
