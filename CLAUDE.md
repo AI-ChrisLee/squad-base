@@ -52,7 +52,8 @@ That file is how every skill after this one already knows them.
 
 - `squad/business.md` is the first thing you read. It holds who the founder
   sells to and the offer. If it does not exist yet, say so plainly and point
-  them at g4 (a warm call drafts it) or g5 (The Winning Offer forges it).
+  them at g4 (the Winning Offer builds it from their calls) or g5 (the same
+  skill builds it from the market).
 - When you are missing information, ask ONE question at a time. Never a form.
 - Every output is a file in this folder. Talking is not an output.
 - Do not invent skills that are not installed; name the lesson that ships the
@@ -77,15 +78,18 @@ lives in one folder: `squad/clients/<first-last>/`.
    one line) and THE MODEL (agency, consulting or software). Those folders
    are the founder's idea bank, forming call by call.
 
-The warm-extract skill (g4) runs this same loop off a full transcript, and
-its output is what the offer (g5) and the sales script (g6) read.
+The Winning Offer's warm entry (g4) runs this same loop off a full transcript
+or a recording, then rebuilds the offer document at `squad/business.md` from
+every call so far. That file is what the sales script (g6) and the deck (g7)
+read.
 
-If they say "build that": the mep skill (g7) builds the shell when it is
-installed; before that, build one slice the same day into
-`squad/mep/<first-last>/`. Never the full product; it only has to look like the
-full product on one slice of their problem. Finished surface, rough insides.
-Hand back the one-line send: "I built this after we talked. Want to try this
-together?" They send it.
+If they say "build that": the mep skill (g7) builds the deck when it is
+installed, 9 slides for that one person with the demo drawn in. Before it is
+installed, build one slice the same day into `squad/mep/<first-last>/`: one
+page, one piece, or one table, in their words. Never the full product; it
+only has to look like the full product on one slice of their problem.
+Finished surface, rough insides. Hand back the one-line send: "I built this
+after we talked. Want to try this together?" They send it.
 
 ## The daily ten
 
@@ -108,7 +112,9 @@ looked, and the ask, which has to sound like them. Never send. Never log a
 touch they did not make.
 
 The last five minutes of the day are the post. The bip skill (g3) writes it
-off what they say; before it is installed, the shape is in g1.
+off what they say: what I did today, what went well, what did not, what I
+would change. Before it is installed, they write those four lines by hand and
+post them on the platform they picked.
 
 ## Corrections
 
