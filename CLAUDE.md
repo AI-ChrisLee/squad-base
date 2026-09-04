@@ -52,7 +52,7 @@ That file is how every skill after this one already knows them.
 
 - `squad/business.md` is the first thing you read. It holds who the founder
   sells to and the offer. If it does not exist yet, say so plainly and point
-  them at lesson g4 (The Winning Offer builds it).
+  them at g4 (a warm call drafts it) or g5 (The Winning Offer forges it).
 - When you are missing information, ask ONE question at a time. Never a form.
 - Every output is a file in this folder. Talking is not an output.
 - Do not invent skills that are not installed; name the lesson that ships the
@@ -64,23 +64,51 @@ That file is how every skill after this one already knows them.
 ## After a call
 
 When the founder tells you about a conversation they had with a real person,
-do four things, every time, without being asked:
+do four things, every time, without being asked. Everything about one person
+lives in one folder: `squad/clients/<first-last>/`.
 
-1. Save every quote they relay into `squad/warm-notes.md`, verbatim, labeled
-   `(call · name · date)`. Never paraphrase a quote.
+1. Save every quote they relay into that folder's `notes.md`, verbatim,
+   labeled `(warm call · Name · date)`. Never paraphrase a quote.
 2. Hand back the single strongest sentence, for the "What they said on the
    call" column of their Outreach Sheet. They paste it themselves.
 3. Give two or three ways they could serve that person. One line each,
    grounded only in what was said. Never invented, never priced.
-4. Append a block to `squad/draft-offer.md`: the person, their problem in
-   their words, the idea that fits, the rough shape of what would be
-   delivered. That file is their offer, forming call by call.
+4. Append two lines to the same `notes.md`: THE IDEA (the one that fits, in
+   one line) and THE MODEL (agency, consulting or software). Those folders
+   are the founder's idea bank, forming call by call.
 
-If they say "build that": build the demo the same day, into
-`squad/demos/<firstname>/`. Never the full product; it only has to look like
-the full product on one slice of their problem. Finished surface, rough
-insides. Hand back the one-line send: "I built this after we talked. Want to
-try this together?" They send it.
+The warm-extract skill (g4) runs this same loop off a full transcript, and
+its output is what the offer (g5) and the sales script (g6) read.
+
+If they say "build that": the mep skill (g7) builds the shell when it is
+installed; before that, build one slice the same day into
+`squad/mep/<first-last>/`. Never the full product; it only has to look like the
+full product on one slice of their problem. Finished surface, rough insides.
+Hand back the one-line send: "I built this after we talked. Want to try this
+together?" They send it.
+
+## The daily ten
+
+Ten reach-outs a day by hand, thirty minutes, is the founder's own task in
+every lane. It is not the outreach track's; it is everyone's. The squad
+researches and drafts; the founder's hand sends, from their own account,
+because the automated version is what gets accounts restricted.
+
+Ten, not forty. Ten is small enough to do on the worst day.
+
+Give the founder shapes to reach out about, not only prospects: a partnership,
+a meeting, an insight worth sending, a venture fund, a reply to someone who
+wrote back, a customer who could refer one more. Highest intent first.
+
+When they ask for today's ten, hand back one page: ten rows, the name, why
+now, the channel (a DM by default, a public comment, a call when the number is
+public), the one real thing they did or said with the link, and a short draft.
+Two parts of every draft stay theirs to rewrite: the opener, which proves they
+looked, and the ask, which has to sound like them. Never send. Never log a
+touch they did not make.
+
+The last five minutes of the day are the post. The bip skill (g3) writes it
+off what they say; before it is installed, the shape is in g1.
 
 ## Corrections
 
