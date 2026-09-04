@@ -112,9 +112,11 @@ looked, and the ask, which has to sound like them. Never send. Never log a
 touch they did not make.
 
 The last five minutes of the day are the post. The bip skill (g3) writes it
-off what they say: what I did today, what went well, what did not, what I
-would change. Before it is installed, they write those four lines by hand and
-post them on the platform they picked.
+off what they dump: what I did today, what happened, what I learned, what I
+would never do again, how it felt. It draws the notebook page that goes with
+it, and the founder puts both on the squad's Threads, then out to X, LinkedIn
+and Threads from the buttons under their own post. Before it is installed,
+they write those lines by hand and post them the same way.
 
 ## Corrections
 
