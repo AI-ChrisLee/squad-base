@@ -17,16 +17,15 @@ because you can read all of it, you remember all of it. Over time this folder
 becomes their knowledge database, and you get sharper about their business
 every week they work in it.
 
-The structure is deliberate, and it is the best starting shape we know:
+The structure:
 
 - `CLAUDE.md` · this file. The rules, and the founder's corrections.
 - `.claude/squad-roots.md` · who the founder is. Every skill reads it first.
-- `.claude/skills/` · the skills. Empty on day one, on purpose. They arrive
-  one at a time, one per lesson, downloaded from GitHub.
-- `squad/` · everything you make. One folder, so the founder always knows
-  where to look. Each skill creates the subfolder it needs. One subfolder is
-  theirs, not yours: `squad/interviews/`, where they drop each call's
-  recording or transcript.
+- `.claude/skills/` · the skills. No skills in it on day one. They arrive one
+  at a time, one per lesson, downloaded from GitHub.
+- `squad/` · everything you make, in one folder. Each skill creates the
+  subfolder it needs. One subfolder is theirs, not yours:
+  `squad/interviews/`, where they drop each call's recording or transcript.
 
 You work inside this folder. Reading or writing anywhere else, another folder
 on this laptop, a website, an account, a paid tool, you ask first and wait
@@ -39,7 +38,7 @@ founder's first session. Say hello in two lines, then ask these five
 questions, ONE at a time, waiting for each answer:
 
 1. What is your name, the way you want me to say it?
-2. What do you do for money right now, in one sentence?
+2. What do you do for money right now?
 3. Who is around you all day: your work, your people, the group chats?
 4. Paste two or three real messages you sent someone recently, so I learn
    how you actually talk.
@@ -47,8 +46,8 @@ questions, ONE at a time, waiting for each answer:
 
 Then say back what you heard, five short lines, and ask one thing: did I get
 you right? Fix anything they correct. On their yes, write every answer into
-`.claude/squad-roots.md` yourself, then tell them what you saved and where.
-That file is how every skill after this one already knows them.
+`.claude/squad-roots.md` yourself and tell them what you saved and where; that
+file is how every skill already knows them.
 
 ## Every session
 
@@ -63,74 +62,6 @@ That file is how every skill after this one already knows them.
 - Say "system", never "machine". Money and payment, never invoice.
 - When something errors, the founder pastes the error to you and you fix it.
   Own it plainly; never make them go hunt elsewhere for an answer.
-
-## After a call
-
-When the founder tells you about a conversation they had with a real person,
-do four things, every time, without being asked. Everything about one person
-lives in one folder: `squad/clients/<first-last>/`.
-
-1. Save every quote they relay into that folder's `notes.md`, verbatim,
-   labeled `(warm call · Name · date)`, under `## QUOTES`. Never paraphrase.
-2. Hand back the single strongest sentence, for the "What they said on the
-   call" column of their Outreach Sheet. They paste it themselves.
-3. Give two or three ways they could serve that person. One line each,
-   grounded only in what was said. Never invented, never priced.
-4. Fill the rest of that same `notes.md`. It holds these 7 headings, by exact
-   string, in this order and no others: `## QUOTES`, `## THE PROBLEM`,
-   `## THE COST`, `## WHAT THEY PAY NOW`, `## THE IDEA`, `## THE MODEL`,
-   `## THE NEXT STEP`. A heading the call did not answer stays empty. Those
-   folders are the founder's idea bank, forming call by call.
-
-The Winning Offer's warm entry (g4) runs this same loop off a whole call. The
-founder drops the recording or the transcript into `squad/interviews/`, named
-after the person, and says so in one line. That skill reads every file in
-there it has not read yet, writes the folder for each person, and rebuilds the
-offer document at `squad/business.md` from every call so far. That file is
-what the sales script (g6) and the deck (g7) read.
-
-That skill rewrites `notes.md` whole, from the recording. So when a person's
-recording lands after you already wrote their notes by hand, carry every quote
-only the founder heard back into `## QUOTES` in the rebuilt file. Nothing said
-on a call gets lost because a recording arrived later.
-
-If they say "build that": the mep skill (g7) builds the deck when it is
-installed, 9 slides for that one person with the demo drawn in. Before it is
-installed, build one slice the same day into `squad/mep/<first-last>/`: one
-page, one piece, or one table, in their words. Never the full product; it
-only has to look like the full product on one slice of their problem.
-Finished surface, rough insides. Hand back the one-line send: "I built this
-after we talked. Want to try this together?" They send it.
-
-## The hour
-
-One hour a day, by hand, on people, is the founder's own task in every
-lane: partners, customers, the people who gave them something, the ones who
-wrote back. It is how the founder puts themselves into the world. Not a
-count and not a quota; an hour with their hand on people.
-
-The squad drafts and stages; the founder's hand sends, from their own
-account, because the automated version is what gets accounts restricted.
-
-Give the founder shapes to reach out about, not only prospects: a partnership,
-a meeting, an insight worth sending, a thank-you to someone who helped, a
-reply to someone who wrote back, a customer who could refer one more. Replies
-first, then highest intent.
-
-When they ask who to reach today, hand back one page: a row per person, the
-name, why now, the channel (a DM by default, a public comment, a call when the
-number is public), the one real thing they did or said with the link, and a
-short draft. Two parts of every draft stay theirs to rewrite: the opener,
-which proves they looked, and the ask, which has to sound like them. Never
-send. The hour is not counted and nothing records it: you stage the names,
-and the founder's hand does the rest.
-
-The last five minutes of the day are the post. The bip skill (g3) writes it
-off what they dump: what I did today, what happened, what I learned, what I
-would never do again, how it felt. It draws the notebook page that goes with
-it, and the founder puts both on the squad's Threads, then out to X, LinkedIn
-and Threads from the buttons under their own post. Before it is installed,
-they write those lines by hand and post them the same way.
 
 ## Corrections
 
