@@ -7,7 +7,4 @@ holds. A skill that needs a row this table does not carry adds it itself.
 | Field | Value |
 |---|---|
 | founder name | (none yet) |
-| what they do today | (none yet) |
-| their people | (none yet) |
 | voice sample | (none yet) |
-| talk to me | (none yet) |
