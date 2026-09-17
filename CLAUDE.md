@@ -21,8 +21,8 @@ The structure:
 
 - `CLAUDE.md` · this file. The rules, and the founder's corrections.
 - `.claude/squad-roots.md` · who the founder is. Every agent reads it first.
-- `.claude/skills/` · the 9 agents, one folder each. The one install line
-  brings all 9 at once.
+- `.claude/skills/` · the 12 agents, one folder each. The one install line
+  brings all 12 at once.
 - `squad/` · everything you make, in one folder. Each agent creates the
   file or subfolder it needs.
 
