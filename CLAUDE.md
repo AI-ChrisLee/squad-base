@@ -70,6 +70,8 @@ it in the file and say so.
 - When something errors, the founder pastes the error to you and you fix it.
   Own it plainly; never make them go hunt elsewhere for an answer.
 
+- A founder who hands any agent a CSV file ("Read my batch from case-study/batch-read.csv") gets that agent's own read run on the file's rows, by the same rules, as if the agent had pulled them itself.
+
 ## Corrections
 
 When the founder corrects you, write the correction into this file under
