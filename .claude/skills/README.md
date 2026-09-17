@@ -1,1 +1,1 @@
-Your 12 agents live here, one folder each. The one install line brings all 12 at once.
+Your 12 agents live here, one folder each: execution-genesis-offer, execution-genesis-demo, execution-genesis-close, execution-outreach-list, execution-outreach-campaign, execution-outreach-read, execution-content-scrape, execution-content-script, execution-content-cut, execution-ads-money, execution-ads-make, execution-ads-launch. The one install line brings all 12 at once.

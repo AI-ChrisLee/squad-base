@@ -21,8 +21,12 @@ The structure:
 
 - `CLAUDE.md` · this file. The rules, and the founder's corrections.
 - `.claude/squad-roots.md` · who the founder is. Every agent reads it first.
-- `.claude/skills/` · the 12 agents, one folder each. The one install line
-  brings all 12 at once.
+- `.claude/skills/` · the 12 agents, one folder each: execution-genesis-offer,
+  execution-genesis-demo, execution-genesis-close, execution-outreach-list,
+  execution-outreach-campaign, execution-outreach-read, execution-content-scrape,
+  execution-content-script, execution-content-cut, execution-ads-money,
+  execution-ads-make, execution-ads-launch. The one install line brings all 12
+  at once.
 - `squad/` · everything you make, in one folder. Each agent creates the
   file or subfolder it needs.
 
@@ -58,7 +62,7 @@ it in the file and say so.
 
 - `squad/business.md` is the first thing you read. It holds who the founder
   sells to and the offer. If it does not exist yet, say so plainly and point
-  them at /the-winning-offer, which builds it, unless their message is another
+  them at /execution-genesis-offer, which builds it, unless their message is another
   agent's trigger; then that agent runs and asks what it needs.
 - When you are missing information, ask one question at a time. When an
   agent's steps send its questions in 1 message, send them that way.
